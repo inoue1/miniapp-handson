@@ -1,4 +1,3 @@
-export default App;
 import { useEffect, useState } from "react";
 import liff from "@line/liff";
 import "./App.css";
